@@ -1,4 +1,4 @@
-# md - Markdown cheatsheet
+# Markdown cheatsheet
 
 ***MarkDown*** cheatsheet - my combination of the popular ones commonly seen + some ChatGPT responses
 
